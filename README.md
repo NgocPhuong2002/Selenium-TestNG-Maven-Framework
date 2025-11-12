@@ -23,3 +23,12 @@
 - Git/GitHub
 
 ## Cấu trúc thư mục
+├── .classpath
+├── .project
+├── .settings/
+├── pom.xml               # File cấu hình Maven
+├── README.md
+├── src/                  # Thư mục chứa mã nguồn, bao gồm main/java & test/java theo chuẩn Maven
+├── target/               # Thư mục build output do Maven sinh ra
+├── test-output/          # Thư mục lưu báo cáo kết quả chạy TestNG
+├── testng.xml            # File cấu hình TestNG Suite
